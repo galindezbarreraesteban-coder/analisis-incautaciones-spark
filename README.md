@@ -3,7 +3,7 @@
 ## 1. Descripción del proyecto
 Este proyecto desarrolla una solución de procesamiento Batch utilizando Python y Apache Spark para analizar información sobre incautaciones de base de coca en Colombia.
 El conjunto de datos se obtiene del portal oficial de Datos Abiertos Colombia y contiene registros históricos que permiten estudiar la distribución geográfica y temporal de las incautaciones registradas.
-**Fuente de datos:** [Incautaciones de base de coca — Datos Abiertos Colombia](https://www.datos.gov.co/en/Seguridad-y-Defensa/INCAUTACIONES-DE-BASE-DE-COCA/nxbk-nikm).
+**Fuente de datos:** [Incautaciones de base de coca — Datos Abiertos Colombia](https://www.datos.gov.co/en/Seguridad-y-Defensa/INCAUTACIONES-DE-BASE-DE-COCA/nxbk-nikm/about_data).
 
 ## 2. Descripción de la solución
 La solución utiliza Apache Spark para procesar el conjunto de datos almacenado en formato CSV. Mediante Python y PySpark, se realizan operaciones de preparación, transformación y análisis exploratorio de los datos.
